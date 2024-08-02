@@ -1,0 +1,1 @@
+{'flight_number': 'JD656', 'airline_name': 'SAUDI AIRLINE', 'schedule': '5:00AM', 'date': '2024-08-01', 'price': 112000.0, 'passenger_name': 'Jhon', 'passenger_email': 'jhon@', 'passenger_phone': '1234567891', 'timestamp': '2024-07-08 11:45:36'}

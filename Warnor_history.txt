@@ -1,0 +1,2 @@
+{'flight_number': 'DB440', 'airline_name': 'EMIRATES', 'schedule': '6:00AM', 'date': '2024-O8-01', 'price': 100000.0, 'passenger_name': 'alex', 'passenger_email': 'alex@', 'passenger_phone': '1234567890', 'timestamp': '2024-07-08 11:39:59'}
+{'flight_number': 'DB447', 'airline_name': 'EMIRATES', 'schedule': '6:00AM', 'date': '2024-O8-01', 'price': 67000.0, 'passenger_name': 'wilson', 'passenger_email': 'wilson@', 'passenger_phone': '0987654321', 'timestamp': '2024-07-08 11:39:59'}
